@@ -1,0 +1,7 @@
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\PixelTracing\PixelTracing\bin\Debug\PixelTracing.exe.config
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\PixelTracing\PixelTracing\bin\Debug\PixelTracing.exe
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\PixelTracing\PixelTracing\bin\Debug\PixelTracing.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\PixelTracing\PixelTracing\obj\Debug\PixelTracing.csprojAssemblyReference.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\PixelTracing\PixelTracing\obj\Debug\PixelTracing.csproj.CoreCompileInputs.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\PixelTracing\PixelTracing\obj\Debug\PixelTracing.exe
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\PixelTracing\PixelTracing\obj\Debug\PixelTracing.pdb
